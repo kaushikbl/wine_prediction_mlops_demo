@@ -1,0 +1,2 @@
+# wine_prediction_mlops_demo
+mlops_demo
